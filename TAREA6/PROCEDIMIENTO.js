@@ -99,5 +99,5 @@ tablaMultiplicar = (numero) => {
 }
 
 function showTable(numero) {
-    document.getElementById("lblTabla").innerHTML = tablaMultiplicar(numero);
+    document.getElementById("LTabla").innerHTML = tablaMultiplicar(numero);
 }
